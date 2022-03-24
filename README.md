@@ -3,6 +3,7 @@
 - 🌱 Eu estou estudando no momento engenharia de software.
 - 💞 Estou querendo colaborar em estudos e trabalhos.
 - 📫 Qualquer dúvida me chame no email: richard.schmitz.riedo87@gmail.com
+- 📫 Meu codepen --> 1UnicaPessoa
 
 <!---
 1UnicaPessoa/1UnicaPessoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
